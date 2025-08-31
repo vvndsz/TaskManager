@@ -28,5 +28,3 @@ The primary goal behind creating this project was to deepen understanding and ha
 - Create a Firebase project in Firebase Studio and enable Realtime Database.  
 - Retrieve your Firebase configuration object and insert it into the project’s Firebase initialization script.  
 - Configure your database rules to allow appropriate read/write access during development or deployment.  
-
-This version improves readability, adds a more professional tone, and elaborates slightly while keeping the explanations concise and user-friendly. Let me know if you want it adjusted further or formatted with additional sections!
